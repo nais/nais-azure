@@ -1,0 +1,6 @@
+.idea/
+config
+cache
+http-cache
+*-credentials.json
+istio-ingressgateway-certs.yaml
